@@ -344,7 +344,7 @@ const gameNameTypeID =
 'https://cattn.github.io/gba-host/gb-alt/Play_Action_Football_(USA).7z',
 'https://cattn.github.io/gba-host/gb-alt/Pocahontas_(USA_Europe)_(SGB_Enhanced).7z',
 'https://cattn.github.io/gba-host/gb-alt/Pokemon_-_Blue_Version_(USA_Europe)_(SGB_Enhanced).7z',
-'https://cattn.github.io/gba-host/gb-alt/Pokemon_-_Red_Version_(USA_Europe)_(SGB_Enhanced).7z',
+'../gba/gba-host/gb-alt/Pokemon_-_Red_Version_(USA_Europe)_(SGB_Enhanced).7z',
 'https://cattn.github.io/gba-host/gb-alt/Pokemon_-_Yellow_Version_-_Special_Pikachu_Edition_(USA_Europe)_(CGB+SGB_Enhanced).7z',
 'https://cattn.github.io/gba-host/gb-alt/Popeye_2_(USA).7z',
 'https://cattn.github.io/gba-host/gb-alt/Power_Mission_(USA).7z',
