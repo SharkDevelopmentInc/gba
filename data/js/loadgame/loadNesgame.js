@@ -647,7 +647,7 @@ const gameNameTypeID =
 '../gba-host/nes-alt/King_Neptunes_Adventure.nes.zip',
 '../gba-host/nes-alt/Kirbys_Adventure.nes.zip',
 '../gba-host/nes-alt/Legend_of_Kage.nes.zip',
-'../gba-host/nes-alt/Legend_of_Zelda.nes.zip',
+'../gba/gba-host/nes-alt/Legend_of_Zelda.nes.zip',
 '../gba-host/nes-alt/Lion_King.nes.zip',
 '../gba-host/nes-alt/Magic_John.nes.zip',
 '../gba-host/nes-alt/Mappy.nes.zip',
