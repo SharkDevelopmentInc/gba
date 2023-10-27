@@ -717,7 +717,7 @@ const gameNameTypeID =
 '../gba-host/nes-alt/Sky_Kid_jp.nes.zip',
 '../gba-host/nes-alt/Splatter_House_jp.nes.zip',
 '../gba-host/nes-alt/Xevious_jp.nes.zip',
-'../gba/gba-host/nes-alt/Dig_Dug_.zip'
+'../gba/gba-host/nes-alt/Dig_Dug.7z'
 
 
 
