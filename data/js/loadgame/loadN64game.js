@@ -142,7 +142,7 @@ const gameNameTypeID =
 '../n64-host/n64-alt/Magical_Tetris_Challenge_(USA).7z',
 '../n64-host/n64-alt/Major_League_Baseball_Featuring_Ken_Griffey_Jr._(USA).7z',
 '../n64-host/n64-alt/Mario_Golf_(USA).7z',
-'../n64-host/n64-alt/Mario_Kart_64_(USA).7z',
+'../gba/gba-host/n64-alt/mariokart64.z64',
 '../n64-host/n64-alt/Mario_Party_(USA).7z',
 '../n64-host/n64-alt/Mario_Party_2_(USA).7z',
 '../n64-host/n64-alt/Mario_Party_2_(USA)_(Wii_Virtual_Console).7z',
